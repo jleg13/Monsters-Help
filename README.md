@@ -13,7 +13,7 @@ Find a video presentation of the prototype [here](https://www.youtube.com/watch?
 
 ## Authors
 
-* **Joshua Le Gresley**  - [jleg13](https://https://github.com/jleg13).
+**Joshua Le Gresley**  - [jleg13](https://https://github.com/jleg13).
 
 ## Support:
 Please email joshualegresley@gmail.com if further details are required.
